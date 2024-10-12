@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Optimize TFJS export on ARM64 (#8946)
